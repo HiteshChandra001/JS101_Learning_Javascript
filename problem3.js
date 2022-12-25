@@ -1,4 +1,4 @@
-let n = "hitesh"
-let a = 25
-console.log(n,a)
-console.log(typeof(n),typeof(a))
+let c = "b";
+if(c!=="a" && c!=="e" && c!=="i" && c!=="o" && c!=="u"){
+  console.log("Consonant");
+}

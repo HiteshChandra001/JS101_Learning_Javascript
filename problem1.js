@@ -1,2 +1,6 @@
-console.log("Masai School")
-console.log("A Transformation in Education")
+let age = 25;
+if(age>=13 && age<=19){
+  console.log("Teenage");
+}else if(age>=20 && age<=29){
+  console.log("Twenties");
+}

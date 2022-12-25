@@ -1,6 +1,4 @@
-let x = "Hitesh"
-console.log(x)
-x = "Kirtan"
-console.log(x)
-x = "Usha"
-console.log(x)
+let c = "a"
+if(c=="a"||c=="e"||c=="i"||c=="o"||c=="u"){
+  console.log("Vowel")
+}
